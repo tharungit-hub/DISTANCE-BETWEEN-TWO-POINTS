@@ -8,7 +8,7 @@ Import the math module to use mathematical build-in function
 ### Step 2: 
 Initialize the values of 2 points in two different list
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)
+Substitute the values in the distance formula  ![formula](formula.jpg)
 ### Step 4: 
 Print the distance with two precision.
 ### Step 5: 
